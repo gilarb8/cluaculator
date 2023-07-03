@@ -62,14 +62,3 @@ end
 
 -- Jalankan program
 main()
-
---[[
-Program di atas meminta untuk
-memasukkan dua angka dan memilih
-operasi matematika yang ingin
-dilakukan (penjumlahan, pengurangan,
-perkalian, atau pembagian). Kemudian,
-program akan menghitung hasilnya dan
-menampilkannya ke layar.
-]]
-
