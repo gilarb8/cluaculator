@@ -1,36 +1,29 @@
-# Kalkulator Lua
+# Cluaculator
 
-Ini adalah sebuah kalkulator sederhana yang dibangun menggunakan bahasa pemrograman Lua. Program ini memungkinkan pengguna untuk melakukan operasi matematika dasar, seperti penjumlahan, pengurangan, perkalian, dan pembagian.
+This is a simple calculator built using the Lua programming language. This program allows users to perform basic mathematical operations, such as addition, subtraction, multiplication, and division.
 
-## Cara Menggunakan
+## How to use
 
-1. Pastikan Anda memiliki lingkungan pengembangan Lua yang terinstal di komputer Anda.
-2. Unduh atau salin kode program kalkulator.lua ke direktori lokal Anda.
-3. Buka terminal atau command prompt dan arahkan ke direktori tempat Anda menyimpan file program.
-4. Jalankan program dengan menjalankan perintah berikut: `lua kalkulator.lua`
-5. Ikuti petunjuk yang ditampilkan di layar untuk memasukkan angka dan memilih operasi yang diinginkan.
-6. Program akan menghitung hasilnya dan menampilkan hasilnya di layar.
+1. Make sure you have the Lua development environment installed on your computer.
+2. Download or copy the calculator.lua program code to your local directory.
+3. Open a terminal or command prompt and navigate to the directory where you saved the program file.
+4. Run the program by running the following command: `lua calculator.lua`
+5. Follow the instructions displayed on the screen to enter numbers and select the desired operation.
+6. The program will calculate the results and display the results on the screen.
 
-## Lisensi
+## Licence
 
-Kalkulator ini dilisensikan di bawah [Mozilla Public License 2.0](LICENSE). Lisensi lengkap dapat ditemukan di file [LICENSE](LICENSE).
+This calculator is licensed under the [Mozilla Public License 2.0](LICENSE). The complete license can be found in the [LICENSE](LICENSE) file.
 
-## Kontribusi
+## Contribution
 
-Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah berikut:
+If you would like to contribute to this project, please follow these steps:
 
-1. Fork repositori ini.
-2. Buat branch baru dengan fitur Anda: `git checkout -b fitur-baru`.
-3. Lakukan perubahan yang diinginkan pada kode.
-4. Commit perubahan Anda: `git commit -m 'Menambahkan fitur baru'`.
-5. Push ke branch Anda: `git push origin fitur-baru`.
-6. Ajukan permintaan tarik (pull request) ke repositori ini.
+1. Fork this repository.
+2. Create a new branch with your features: `git checkout -b new-feature`.
+3. Make the desired changes to the code.
+4. Commit your changes: `git commit -m 'Add new features'`.
+5. Push to your branch: `git push origin new-feature`.
+6. Submit a pull request to this repository.
 
-Pastikan untuk melaporkan bug, masalah, atau permintaan fitur dengan membuat [Issue](https://github.com/muchamadyja/luacalculator/issues) baru.
-
-## Kontak
-
-Jika Anda memiliki pertanyaan, saran, atau kerjasama, jangan ragu untuk menghubungi kami melalui email di gillar@null.net
-
-Terima kasih telah menggunakan kalkulator Lua!
-
+Be sure to report any bugs, issues, or feature requests by creating new [Issue](https://github.com/gilarc/cluaculator/issues).
